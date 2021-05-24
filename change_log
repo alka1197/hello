@@ -1,0 +1,53 @@
+
+06-05-2021
+======================
+
+public_html/app/design/frontend/bs_outstock/bs_outstock1/Magento_Catalog/templates/product (list.phtml file change)
+
+public_html/app/design/frontend/bs_outstock/bs_outstock1 (add Magiccart_Magicproduct)
+
+
+07-05-2021
+===================
+
+public_html/app/design/frontend/bs_outstock/bs_outstock1/Magento_Catalog/layout (catalog_product_view.xml change file)
+
+-> show more (div comment )
+
+-> SKU move after add to card
+
+-> shoet description move after after sku
+
+-> how to use code comment
+
+-> discription remove
+
+-> Good to Know (div comment)
+
+-> description comment code (contener name  "alert.urls")
+
+----------------------------------------------------------------------------------------------------------------------
+
+public_html/app/design/frontend/bs_outstock/bs_outstock1 (add Mageplaza_Productslider)
+
+public_html/app/design/frontend/bs_outstock/bs_outstock1/Magento_Catalog/templates/product/list (relateproduct.phtml in localtion code comment)
+
+most view product slider in product detils page add admin in wight
+
+
+08-05-2021
+===============
+public_html/app/design/frontend/bs_outstock/bs_outstock1/Magento_Catalog/templates/product (list.phtml add catagory name code)
+
+
+10-05-2021
+===========
+public_html/app/design/frontend/bs_outstock/bs_outstock1/Magento_Catalog/templates/product/view (addtocart.phtml file in add to card button text change)
+
+public_html/app/design/frontend/bs_outstock/bs_outstock1/Magento_Catalog/web/js (catalog-add-to-cart.js fill overwrite and change add to card taxe)
+
+
+Most View Product title change admin wight
+
+
+
